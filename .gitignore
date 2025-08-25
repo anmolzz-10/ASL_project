@@ -1,0 +1,10 @@
+# Ignore model checkpoints
+*.pth
+*.ckpt
+
+# Ignore training logs
+*.log
+
+# Ignore temporary Python files
+__pycache__/
+*.pyc
